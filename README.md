@@ -1,2 +1,2 @@
-# AJAX_GET_Boilerplate
-AJAX GET request boilerplate using XMLHttpRequest
+# AJAX_GET/POST_Boilerplate
+AJAX GET/POST request boilerplate using XMLHttpRequest
